@@ -12,7 +12,7 @@ If you want the version that I was using to test, put this into the Steam Consol
 
 download_depot 471710 471711 7115392148801672603
 
-Make sure to put a "steam_appid.txt" inside the root of the install. I set the ID inside the .txt to 471710 (Rec Room's ID) but if you want somebody who doesn't have Rec Room on Steam to play, make sure their "steam_appid.txt" is set to either 92 ([Codename Gordon](steam://install/92)) or 480 ([Spacewar](steam://install/480))
+Make sure to put a "steam_appid.txt" inside the root of the install. I set the ID inside the .txt to 471710 (Rec Room's ID) but if you want somebody who doesn't have Rec Room on Steam to play, make sure their "steam_appid.txt" is set to either 92 (Codename Gordon (steam://install/92)) or 480 (Spacewar (steam://install/480))
 
 ## Building
 
