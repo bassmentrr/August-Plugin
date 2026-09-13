@@ -4,7 +4,7 @@ August Plugin is a **BepInEx plugin for the [Bassment August Server](https://git
 
 It is primarily designed for an **August 17th, 2016 build of Rec Room**, and is intended to work alongside the [Bassment August Server](https://github.com/bassmentrr/August-Server).
 
-It will probably work with all versions **older than August 17th, 2016** as well, although compatibility with those versions has not been tested because I am a lazy bum.
+From what I investigated, this plugin should work from the first ever version of Rec Room (June 28th, 2016) to August 30th, 2016, as they added levels in that version!
 
 ## Building
 
